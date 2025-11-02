@@ -1,0 +1,29 @@
+name: event-data
+
+run-name: event-data
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  event-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v5
+
+      - name: Install
+        run: pip install bcedd
+
+      - name: Download
+        run: python -m bcedd -c jp kr en tw -o .
+
+      - name: Commit
+        uses: stefanzweifel/git-auto-commit-action@v7
+        with:
+          commit_message: "update: event data"
