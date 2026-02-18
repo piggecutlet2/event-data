@@ -72,8 +72,8 @@
 20260130	1100	20260309	1100	150100	999999	0	0	52403	837	0			7	0	0	5	fr			it			de			es			th			0	0	0
 20260209	1100	20260220	1100	150100	999999	0	0	52404	812	0			7	0	0	5	fr			it			de			es			th			0	0	0
 20260209	1100	20260220	1100	150100	999999	0	0	52405	813	0			7	0	0	5	fr			it			de			es			th			0	0	0
-20260215	1100	20300101	1100	150100	999999	0	0	52409	301	0			7	0	0	5	fr			it			de			es			th			0	0	0
-20260215	1100	20300101	1100	150100	999999	0	0	52410	302	0			7	0	0	5	fr			it			de			es			th			0	0	0
+20260215	1100	20260221	1100	150100	999999	0	0	52409	301	0			7	0	0	0	0	0	0
+20260215	1100	20260221	1100	150100	999999	0	0	52410	302	0			7	0	0	0	0	0	0
 20260217	000	20260218	000	150100	999999	0	0	2489	203	1	Lunar New Year!	Celebrate a new Lunar Year with this Rare Ticket gift!	7	0	0	5	fr	Bonne année lunaire !	Fête le début de l’année du rat avec ce ticket rare en cadeau !	it	Capodanno lunare!	Festeggiamo l'inizio dell'Anno del topo con questo biglietto raro!	de	Mond-Neujahr!	Feiere den Beginn des Jahres der Ratte mit diesem seltenen Ticket!	es	¡Año Nuevo Lunar!	Festeja el comienzo del Año de la Rata con este tique raro.	th	ตรุษจีน!	ฉลองการเริ่มต้นปีชวดด้วยของขวัญตั๋วแรร์นี้!	0	0	0
 20260220	1100	20260309	1100	150100	999999	0	0	52413	812	0			7	0	0	5	fr			it			de			es			th			0	0	0
 20260220	1100	20260309	1100	150100	999999	0	0	52414	813	0			7	0	0	5	fr			it			de			es			th			0	0	0
@@ -83,4 +83,8 @@
 20260225	1800	20260226	000	150100	999999	0	0	52420	200	50	Lunar New Year Campaign on Facebook!	Log in on set days between 6:00PM - 11:59PM for a gift!<br>Keep an eye on our Facebook for notices about amazing gifts!	7	0	0	5	fr	Lunar New Year Campaign on Facebook!	Log in on set days between 6:00PM - 11:59PM for a gift!<br>Keep an eye on our Facebook for notices about amazing gifts!	it	Lunar New Year Campaign on Facebook!	Log in on set days between 6:00PM - 11:59PM for a gift!<br>Keep an eye on our Facebook for notices about amazing gifts!	de	Lunar New Year Campaign on Facebook!	Log in on set days between 6:00PM - 11:59PM for a gift!<br>Keep an eye on our Facebook for notices about amazing gifts!	es	Lunar New Year Campaign on Facebook!	Log in on set days between 6:00PM - 11:59PM for a gift!<br>Keep an eye on our Facebook for notices about amazing gifts!	th	Lunar New Year Campaign on Facebook!	Log in on set days between 6:00PM - 11:59PM for a gift!<br>Keep an eye on our Facebook for notices about amazing gifts!	0	0	0
 20260213	1100	20260307	1100	150100	999999	0	0	80109	11001	0			0	0	1	5	fr			it			de			es			th			0	0	0
 20260216	1100	20260309	1100	150100	999999	0	0	80110	11035	0			0	0	1	5	fr			it			de			es			th			0	0	0
+20260221	1100	20300101	1100	150100	999999	0	0	52421	301	0			7	0	0	5	fr			it			de			es			th			0	0	0
+20260221	1100	20300101	1100	150100	999999	0	0	52422	302	0			7	0	0	5	fr			it			de			es			th			0	0	0
+20260221	1100	20260225	1100	150100	999999	0	0	52423	982	0	★EVANGELION Stamps★	Celebrate the return of Evangelion with limited unit Kaworu & Cat!<br>Maybe try pairing him with Shinjji & Cat...?	7	0	1	5	fr	★EVANGELION Stamps★	Celebrate the return of Evangelion with limited unit Kaworu & Cat!<br>Maybe try pairing him with Shinjji & Cat...?	it	★EVANGELION Stamps★	Celebrate the return of Evangelion with limited unit Kaworu & Cat!<br>Maybe try pairing him with Shinjji & Cat...?	de	★EVANGELION Stamps★	Celebrate the return of Evangelion with limited unit Kaworu & Cat!<br>Maybe try pairing him with Shinjji & Cat...?	es	★EVANGELION Stamps★	Celebrate the return of Evangelion with limited unit Kaworu & Cat!<br>Maybe try pairing him with Shinjji & Cat...?	th	★EVANGELION Stamps★	Celebrate the return of Evangelion with limited unit Kaworu & Cat!<br>Maybe try pairing him with Shinjji & Cat...?	0	0	0
+20260221	1100	20260225	1100	150100	999999	0	0	52424	852	0			7	0	0	5	fr			it			de			es			th			0	0	0
 [end]
